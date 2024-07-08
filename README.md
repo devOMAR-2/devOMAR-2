@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on Amyal Dealership  
   
 
-- 🌱 I’m currently learning Unity  
+- 🌱 I’m currently learning Tailwind CSS  
   
 
 - ❓ Ask me about anything related to Laravel and related technologies  
