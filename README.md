@@ -1,32 +1,33 @@
-# 👋 Hi, I'm **Omar**
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=devomar-2&theme=github-dark" alt="Omar Alfarraj profile hero" /></picture>
+</p>
 
-*Software Engineer | Web Developer | Passionate about building reliable, user-focused solutions*
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=devomar-2&theme=github-dark" alt="About Omar Alfarraj" /></picture>
+</p>
 
-Welcome to my GitHub profile! I enjoy transforming ideas into well-crafted software and continuously exploring new technologies that create meaningful impact.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=devomar-2&theme=github-dark" alt="Language stack" /></picture>
+</p>
 
-## 🚀 About Me
-- 💼 Currently working as **Software Engineer** at **SDAIA**
-- 🌱 Learning and experimenting with **Unreal Engine**
-- 🎯 Interested in **Game Development**
-- ✨ I value clean architecture, collaboration, and lifelong learning.
+## 📊 GitHub Stats
 
-## 📌 Current Projects
-- **Team Stein** — *Family-friendly webapp board game*
-- **Resume Needed** — *CV builder and ATS checker*
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=devomar-2&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
 
-## 🛠️ Tech Stack
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=devomar-2&theme=github-dark" alt="devomar-2 featured projects" /></picture>
+</p>
 
 ## 🤝 Connect With Me
-- 🌐 Website: [devOMAR.me](https://devomar.me)
-- 💼 LinkedIn: [linkedin.com/in/omar-alfarraj](https://linkedin.com/in/omar-alfarraj)
-- 🐦 X / Twitter: [@devOMAR_](https://x.com/devOMAR_)
-- 📫 Email: omar.alfarraj@yahoo.com
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=devomar-2&theme=github-dark&website=https%3A%2F%2Fdevomar.me&x=devOMAR_&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=devomar-2&theme=github-dark&website=https%3A%2F%2Fdevomar.me&x=devOMAR_" alt="devomar-2 social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devomar-2) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devOMAR_) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devomar.me)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
