@@ -10,34 +10,53 @@ Based in Riyadh, Saudi Arabia.
 
 ---
 
+## Products
+
+### Resume Needed — مطلوب سيرة ذاتية
+**CV Builder & ATS Analysis Platform**
+
+A web product for creating professional CVs and evaluating them for applicant tracking systems.
+
+[Visit Resume Needed](https://resume-needed.cloud)
+
+---
+
+### Zad — زاد
+**Android App**
+
+An Arabic Android app for daily adhkar, prayer times, reminders, and Islamic daily practices.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.devomar.zad&hl=ar)
+
+---
+
+### Hizzar — حزّر
+**Arabic Word Game**
+
+An Arabic word puzzle game built as a lightweight web experience.
+
+[Play Hizzar](https://hizzar.vercel.app)
+
+---
+
+### My Reading List
+**Open Source Chrome Extension**
+
+A lightweight Chrome extension for saving articles and webpages to read later. Built with JavaScript, Manifest V3, and local browser storage.
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/my-reading-list/pbbfenbhgbiekmbancmmmihcoodljjek) · [Source Code](https://github.com/devOMAR-2/my-reading-list)
+
+---
+
 ## About
 
 I'm a software engineer focused on building useful, well-crafted products.
 
-My work spans full-stack web development, internal business systems, SaaS products, dashboards, APIs, and customer-facing digital experiences.
+My work spans full-stack web development, internal business systems, SaaS products, dashboards, APIs, mobile apps, and customer-facing digital experiences.
 
 I care about more than making something technically work. I like understanding the problem, simplifying the experience, and building software that feels intentional from both the user's and developer's perspective.
 
 I work professionally as a software engineer and independently build products and work with businesses on digital projects.
-
----
-
-## Selected Work
-
-### Mishwar — مشوار
-**Contemporary Saudi Restaurant**
-
-A bilingual restaurant experience built around modern Saudi cuisine, with menu discovery, locations, reservations, and a fully responsive Arabic-first interface.
-
-`HTML` `SCSS` `JavaScript` `RTL`
-
-**Concept Project · Coming Soon**
-
----
-
-### More work is on the way.
-
-I'm currently expanding this portfolio with selected projects across e-commerce, corporate websites, healthcare, personal branding, and SaaS products.
 
 ---
 
@@ -48,6 +67,9 @@ Angular · TypeScript · JavaScript · HTML · SCSS
 
 **Backend**  
 Laravel · PHP · REST APIs
+
+**Mobile**  
+Android
 
 **Data & Business Intelligence**  
 SQL · Power BI
@@ -67,7 +89,7 @@ I prefer thoughtful solutions over unnecessary complexity and believe good softw
 
 ## Currently
 
-Building new products, experimenting with ideas, and expanding my portfolio with complete real-world product experiences.
+Building and shipping products while expanding my portfolio with complete real-world and concept experiences.
 
 Open to interesting projects and collaborations.
 
