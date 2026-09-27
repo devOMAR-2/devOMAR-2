@@ -1,33 +1,78 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=devomar-2&theme=github-dark" alt="Omar Alfarraj profile hero" /></picture>
-</p>
+# Omar Alfarraj
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=devomar-2&theme=github-dark" alt="About Omar Alfarraj" /></picture>
-</p>
+**Software Engineer · Product Builder**
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=devomar-2&theme=github-dark" alt="Language stack" /></picture>
-</p>
+I design and build digital products, business systems, and web experiences — from the first idea to a working product.
 
-## 📊 GitHub Stats
+Based in Riyadh, Saudi Arabia.
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=devomar-2&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=devomar-2&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=devomar-2&theme=github-dark" alt="devomar-2 featured projects" /></picture>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=devomar-2&theme=github-dark&website=https%3A%2F%2Fdevomar.me&x=devOMAR_&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=devomar-2&theme=github-dark&website=https%3A%2F%2Fdevomar.me&x=devOMAR_" alt="devomar-2 social links" /></picture>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devomar-2) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devOMAR_) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devomar.me)
+[Portfolio](https://devomar.me) · [X / Twitter](https://twitter.com/devOMAR_)
 
 ---
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+## About
+
+I'm a software engineer focused on building useful, well-crafted products.
+
+My work spans full-stack web development, internal business systems, SaaS products, dashboards, APIs, and customer-facing digital experiences.
+
+I care about more than making something technically work. I like understanding the problem, simplifying the experience, and building software that feels intentional from both the user's and developer's perspective.
+
+I work professionally as a software engineer and independently build products and work with businesses on digital projects.
+
+---
+
+## Selected Work
+
+### Mishwar — مشوار
+**Contemporary Saudi Restaurant**
+
+A bilingual restaurant experience built around modern Saudi cuisine, with menu discovery, locations, reservations, and a fully responsive Arabic-first interface.
+
+`HTML` `SCSS` `JavaScript` `RTL`
+
+**Concept Project · Coming Soon**
+
+---
+
+### More work is on the way.
+
+I'm currently expanding this portfolio with selected projects across e-commerce, corporate websites, healthcare, personal branding, and SaaS products.
+
+---
+
+## What I Work With
+
+**Frontend**  
+Angular · TypeScript · JavaScript · HTML · SCSS
+
+**Backend**  
+Laravel · PHP · REST APIs
+
+**Data & Business Intelligence**  
+SQL · Power BI
+
+**Tools & Workflow**  
+Git · GitHub · VS Code
+
+---
+
+## How I Work
+
+**Understand the problem → Design the solution → Build it properly → Refine the details**
+
+I prefer thoughtful solutions over unnecessary complexity and believe good software should be as pleasant to maintain as it is to use.
+
+---
+
+## Currently
+
+Building new products, experimenting with ideas, and expanding my portfolio with complete real-world product experiences.
+
+Open to interesting projects and collaborations.
+
+---
+
+### Let's build something useful.
+
+[devomar.me](https://devomar.me) · [GitHub](https://github.com/devOMAR-2) · [X / Twitter](https://twitter.com/devOMAR_)
