@@ -48,6 +48,15 @@ A lightweight Chrome extension for saving articles and webpages to read later. B
 
 ---
 
+### json-contract-diff
+**Open Source npm Package**
+
+A TypeScript library and CLI for detecting breaking and non-breaking changes between JSON contracts. Built for API regression checks, CI pipelines, and contract validation.
+
+[npm](https://www.npmjs.com/package/json-contract-diff) · [Source Code](https://github.com/devOMAR-2/json-contract-diff)
+
+---
+
 ## Selected Work
 
 ### Mishwar — مِشوار
