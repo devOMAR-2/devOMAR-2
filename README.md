@@ -48,6 +48,17 @@ A lightweight Chrome extension for saving articles and webpages to read later. B
 
 ---
 
+## Selected Work
+
+### Mishwar — مِشوار
+**Contemporary Saudi Restaurant — Concept Project**
+
+A bilingual Arabic-first restaurant experience built from scratch with HTML, SCSS and vanilla JavaScript. Includes responsive RTL/LTR layouts, menu filtering, live opening status, reservations, SEO, accessibility and a custom static-site build pipeline.
+
+[Live Demo](https://devomar-2.github.io/mishwar/) · [Source Code](https://github.com/devOMAR-2/mishwar)
+
+---
+
 ## About
 
 I'm a software engineer focused on building useful, well-crafted products.
